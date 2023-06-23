@@ -21,7 +21,7 @@ This website was built using
 - CSS - Making the website more attractive and cross platform
 - Visual Studio Code - To build web applications
 - Chrome - As a website media viewer that has been created
-- Boostran - For icon page 
+- Boostrap - For icon page 
 
 ## Responsive Display
 Desktop / Laptop
